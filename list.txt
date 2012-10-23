@@ -1,7 +1,4 @@
 Milk
-<<<<<<< HEAD
 HelloHello
-=======
 Juice
->>>>>>> f71be29e6912d7de4e9049d9e5596256daf5cd89
 Eggs
